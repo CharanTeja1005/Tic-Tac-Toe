@@ -168,7 +168,7 @@ public class TicTacToe extends javax.swing.JFrame {
         }
         
 //        3rd Vertical Row
-        else if(b3.equals("X") && b6.equals("X") && b8.equals("X"))
+        else if(b3.equals("X") && b6.equals("X") && b9.equals("X"))
         {
             jbtnTic3.setBackground(Color.RED);
             jbtnTic6.setBackground(Color.RED);
